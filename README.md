@@ -9,7 +9,7 @@ Automatically set your iPhone wallpaper using **Bing’s daily images** — full
 
 ![th](https://github.com/user-attachments/assets/981e20b1-0732-4c24-bc55-c74f5cf6e24d)
 
-<video src="https://youtube.com/shorts/2zNA5mBinPE?si=QS7Kt6sDR9-6p4hM" autoplay loop muted playsinline width="100%"></video>
+[Sample video](https://youtube.com/shorts/2zNA5mBinPE?si=QS7Kt6sDR9-6p4hM)
 
 
 ---
