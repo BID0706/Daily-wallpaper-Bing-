@@ -7,6 +7,8 @@
 
 Automatically set your iPhone wallpaper using **Bing’s daily images** — fully automated, clean, and maintenance-free.
 
+![th](https://github.com/user-attachments/assets/981e20b1-0732-4c24-bc55-c74f5cf6e24d)
+
 ---
 
 ## ✨ Features
